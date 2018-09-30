@@ -5,8 +5,8 @@ data coded as 1 (yes, success, etc.) or 0 (no, failure, etc.). In other words, t
 model predicts P(Y=1) as a function of X.
 
 ## Objective:
-The purpose of this assignment is to apply  logistic  Logistic regression to classify a binary value or categorical value  . 
-and also discuss why you chose that attribute/feature and what you are trying to learn from the classification.
+The purpose of this assignment is to apply Logistic regression to classify a binary value or categorical value  . 
+and also discuss why we chose that attribute/feature and what we are trying to learn from the classification.
 
 The overview of the data set is as below 
 

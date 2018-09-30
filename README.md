@@ -12,8 +12,8 @@ Excellent or Average.
 |Name | Detail|
 |---|---|
 | University | [SJSU UNIVERSITY]( http://www.sjsu.edu/) |
-| Team | [CODE Busters]|
-|Professor| [Mr.Arsanjani]|
+| Team | Code Busters|
+|Professor| Mr.Arsanjani|
 |Team | [Harini Balakrishnan](https://www.linkedin.com/in/harini-balakrishnan/) 
 |Team | [Ravi Katta](https://www.linkedin.com/in/ravi-shanker-katta/)  
 |Team | [Anushri Srinath Aithal](https://www.linkedin.com/in/anushri-aithal/) 

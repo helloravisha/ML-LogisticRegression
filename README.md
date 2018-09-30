@@ -7,6 +7,8 @@ model predicts P(Y=1) as a function of X.
 Goal of this Code is do a Logistic regression on restaurant data  to Predict the Rating of the restaurent whether it is
 Excellent or Average. 
 
+Dataset: https://www.kaggle.com/shrutimehta/zomato-restaurants-data 
+
 ## Details
 
 |Name | Detail|

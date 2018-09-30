@@ -12,7 +12,8 @@ The overview of the data set is as below
 
 Dataset: https://www.kaggle.com/shrutimehta/zomato-restaurants-data 
 
-## Accuracy score of our model : 0.96 
+## Accuracy score of our model : 
+0.96 
 
 ## Details
 

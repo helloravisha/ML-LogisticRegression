@@ -6,3 +6,15 @@ model predicts P(Y=1) as a function of X.
 
 Goal of this Code is do a Logistic regression on restaurant data  to Predict the Rating of the restaurent whether it is
 Excellent or Average. 
+
+## Details
+
+|Name | Detail|
+|---|---|
+| University | [SJSU UNIVERSITY]( http://www.sjsu.edu/) |
+| Team | [CODE Busters]|
+|Professor| [Mr.Arsanjani]|
+|Team | [Harini Balakrishnan](https://www.linkedin.com/in/harini-balakrishnan/) 
+|Team | [Ravi Katta](https://www.linkedin.com/in/ravi-shanker-katta/)  
+|Team | [Anushri Srinath Aithal](https://www.linkedin.com/in/anushri-aithal/) 
+|Team | [Sunder Thyagarajan](https://www.linkedin.com/in/sunderthyagarajan/)

@@ -29,7 +29,9 @@ if  the restaurant rating is "Excellent"  or  "Average".
    distributed or organized
 
 ## Accuracy score: 
-## 0.96 
+## 0.95 
+![Alt text](/images/Score.png)
+
 
 ##  Sigmoid Function:
 

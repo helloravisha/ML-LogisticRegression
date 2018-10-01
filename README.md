@@ -56,7 +56,7 @@ as  i.e 0-Average, 1-Excellent. To squeeze the predicted value between 0 and 1, 
 |---|---|---|---|
 | University | [SJSU UNIVERSITY]( http://www.sjsu.edu/) |
 | Team-Name | Code Busters|
-|Professor| Mr.Arsanjani|
+|Professor| Mr. Arsanjani|
 |Team | [Harini Balakrishnan](https://www.linkedin.com/in/harini-balakrishnan/) | 010830755 | Signoid Function
 |Team | [Ravi Katta](https://www.linkedin.com/in/ravi-shanker-katta/)  | 012127011 | Data Cleaning / Data Analysis
 |Team | [Anushri Srinath Aithal](https://www.linkedin.com/in/anushri-aithal/) | 012506897 | Logistic Regression

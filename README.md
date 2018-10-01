@@ -8,9 +8,25 @@ model predicts P(Y=1) as a function of X.
 The purpose of this assignment is to apply Logistic regression to classify a binary value or categorical value  . 
 and also discuss why we chose that attribute/feature and what we are trying to learn from the classification.
 
-The overview of the data set is as below 
-
+## Dataset Overview:
 Dataset: https://www.kaggle.com/shrutimehta/zomato-restaurants-data 
+
+## What we  Achieved ?
+Based on the Different features in the dataset , using Logistic Regression , we are able  to get 
+if  the restaurant rating is "Excellent"  or  "Average". 
+
+## What Data Preparation we did :
+
+1) Load the data using the Pandas library.
+2) Considered only the  columns in the Dataset , which can impact the rating. 
+3) The Dataset has different sets of  target values for Rating like (‘Excellent’, ‘Good’, ‘Average’ , 'Very Good '). 
+    Since we would like to implement a binary classification algorithm, we decided to have the rows with 
+    target value Excellent and Average
+4) Format the column headers as they have spaces. ( why formatting ? To apply functions on the columns headers ) 
+5) Rating is in the  text Format , so updated to Binary Values 0 and 1.
+6) Convert required  features  like 'Table booking','Has Online delivery to numerical  values
+7) Data Analysis - Use Library like  pairplot Which gives fair idea bout how data is 
+   distributed or organized
 
 ## Accuracy score of our model : 
 ## 0.96 

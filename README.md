@@ -31,6 +31,12 @@ if  the restaurant rating is "Excellent"  or  "Average".
 ## Accuracy score: 
 ## 0.96 
 
+##  Sigmoid Function:
+
+Logistic regression algorithm also uses a linear equation with independent predictors to predict a value. 
+We want to have the output of the algorithm to be class variable in our case which is Rating
+as  i.e 0-Average, 1-Excellent. To squeeze the predicted value between 0 and 1, we use the sigmoid function.
+
 ## Team
 
 |Name | Detail|

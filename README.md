@@ -5,8 +5,8 @@ data coded as 1 (yes, success, etc.) or 0 (no, failure, etc.). In other words, t
 model predicts P(Y=1) as a function of X.
 
 ## Objective:
-The purpose of this assignment is to apply Logistic regression to classify a binary value or categorical value  . 
-and also discuss why we chose that attribute/feature and what we are trying to learn from the classification.
+The purpose of this assignment is to apply Logistic regression to classify a binary value or categorical value 
+and also to discuss why we chose that attribute/feature and what we are trying to learn from the classification.
 
 ## Dataset Overview:
 Dataset: https://www.kaggle.com/shrutimehta/zomato-restaurants-data 
@@ -57,7 +57,7 @@ as  i.e 0-Average, 1-Excellent. To squeeze the predicted value between 0 and 1, 
 | University | [SJSU UNIVERSITY]( http://www.sjsu.edu/) |
 | Team-Name | Code Busters|
 |Professor| Mr.Arsanjani|
-|Team | [Harini Balakrishnan](https://www.linkedin.com/in/harini-balakrishnan/) | 010830755 | Logistic Regression
-|Team | [Ravi Katta](https://www.linkedin.com/in/ravi-shanker-katta/)  | 012127011 | Data Cleaning
-|Team | [Anushri Srinath Aithal](https://www.linkedin.com/in/anushri-aithal/) | 012506897 | Signoid Function
-|Team | [Sunder Thyagarajan](https://www.linkedin.com/in/sunderthyagarajan/) | 011528062 | Confusion Matrix
+|Team | [Harini Balakrishnan](https://www.linkedin.com/in/harini-balakrishnan/) | 010830755 | Signoid Function
+|Team | [Ravi Katta](https://www.linkedin.com/in/ravi-shanker-katta/)  | 012127011 | Data Cleaning / Data Analysis
+|Team | [Anushri Srinath Aithal](https://www.linkedin.com/in/anushri-aithal/) | 012506897 | Logistic Regression
+|Team | [Sunder Thyagarajan](https://www.linkedin.com/in/sunderthyagarajan/) | 011528062 | Confusion Matrix/ Data Analysis 

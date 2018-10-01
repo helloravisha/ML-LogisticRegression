@@ -12,7 +12,7 @@ and also discuss why we chose that attribute/feature and what we are trying to l
 Dataset: https://www.kaggle.com/shrutimehta/zomato-restaurants-data 
 
 ## What we  Achieved ?
-Based on the Different features in the dataset , using Logistic Regression , we are able  to get 
+Based on the Different features in the dataset using Logistic Regression , we are able  to get 
 if  the restaurant rating is "Excellent"  or  "Average". 
 
 ## What Data Preparation we did :

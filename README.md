@@ -52,8 +52,8 @@ as  i.e 0-Average, 1-Excellent. To squeeze the predicted value between 0 and 1, 
 
 ## Team
 
-|Name | Detail|
-|---|---|
+|Name | Detail|SJSU Id | Contributions
+|---|---|---|---|
 | University | [SJSU UNIVERSITY]( http://www.sjsu.edu/) |
 | Team | Code Busters|
 |Professor| Mr.Arsanjani|

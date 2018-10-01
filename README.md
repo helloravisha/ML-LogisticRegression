@@ -28,7 +28,7 @@ if  the restaurant rating is "Excellent"  or  "Average".
 7) Data Analysis - Use Library like  pairplot Which gives fair idea bout how data is 
    distributed or organized
 
-## Accuracy score of our model : 
+## Accuracy score: 
 ## 0.96 
 
 ## Team

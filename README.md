@@ -1,19 +1,18 @@
 # ML Logistic Regression
-Logistic Regression is a Machine Learning classification algorithm that is used to predict the probability of a 
-categorical dependent variable. In logistic regression, the dependent variable is a binary variable that contains 
-data coded as 1 (yes, success, etc.) or 0 (no, failure, etc.). In other words, the logistic regression 
-model predicts P(Y=1) as a function of X.
+Machine Learning Algorithm Logistic Regression is a classification algorithm that can be used to predict the probability of a categorical dependent variable. The data that contains 1 (Success) or 0 (Failure) which is also called as binary variable is used logistic regression and this variable should be a dependent variable.  
+Main Usage of Logistic Regression is categorization. It can be used in different use cases like for e.g. Predicting if it rains or not, individual gets a loan or not etc.
+
 
 ## Objective:
 The purpose of this assignment is to apply Logistic regression to classify a binary value or categorical value 
 and also to discuss why we chose that attribute/feature and what we are trying to learn from the classification.
 
-## Dataset Overview:
+## What is the Dataset all about? 
+We used restaurant Dataset to predict the “Restaurant Rating“
 Dataset: https://www.kaggle.com/shrutimehta/zomato-restaurants-data 
 
 ## What we  Achieved ?
-Based on the Different features in the dataset using Logistic Regression , we are able  to get 
-if  the restaurant rating is "Excellent"  or  "Average". 
+Based on the Different features in the dataset using Logistic Regression, we are able to get if the restaurant rating is "Excellent" or "Average". The reason for choosing this feature is to help the restaurant owners to focus the  areas that can impact a  better rating. 
 
 ## What Data Preparation we did :
 
@@ -35,9 +34,7 @@ if  the restaurant rating is "Excellent"  or  "Average".
 
 ##  Sigmoid Function:
 
-Logistic regression algorithm also uses a linear equation with independent predictors to predict a value. 
-We want to have the output of the algorithm to be class variable in our case which is Rating
-as  i.e 0-Average, 1-Excellent. To squeeze the predicted value between 0 and 1, we use the sigmoid function.
+Sigmoid function can be used for Classification type problems, where we scale the data in some given range with the threshold, where it adjusts all the data points between 0 and 1. We want to have the output of the Logistic Regression Algorithm to be class variable in our case which is Rating as 0-Average, 1-Excellent.The S-curve below depicts sigmoid function for the Train  data present in our restaurant data set.  
 ![Alt text](/images/Sigmoid.png)
 
 

@@ -1,5 +1,6 @@
 # ML Logistic Regression
 Machine Learning Algorithm Logistic Regression is a classification algorithm that can be used to predict the probability of a categorical dependent variable. The data that contains 1 (Success) or 0 (Failure) which is also called as binary variable is used logistic regression and this variable should be a dependent variable.  
+
 Main Usage of Logistic Regression is categorization. It can be used in different use cases like for e.g. Predicting if it rains or not, individual gets a loan or not etc.
 
 

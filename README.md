@@ -48,14 +48,3 @@ Sigmoid function can be used for Classification type problems, where we scale th
 ## Conclusion
  Logistic regression  can be used for both binary and multivariate classification tasks. With the current solution we used  binary classification task, which gives the rating of restaurent which can be "Excellent" or "Average".
 
-## Team
-
-|Name | Detail|SJSU Id | Contributions
-|---|---|---|---|
-| University | [SJSU UNIVERSITY]( http://www.sjsu.edu/) |
-| Team-Name | Code Busters|
-|Professor| Mr. Arsanjani|
-|Team | [Harini Balakrishnan](https://www.linkedin.com/in/harini-balakrishnan/) | 010830755 | Signoid Function
-|Team | [Ravi Katta](https://www.linkedin.com/in/ravi-shanker-katta/)  | 012127011 | Data Cleaning / Data Analysis
-|Team | [Anushri Srinath Aithal](https://www.linkedin.com/in/anushri-aithal/) | 012506897 | Logistic Regression
-|Team | [Sunder Thyagarajan](https://www.linkedin.com/in/sunderthyagarajan/) | 011528062 | Confusion Matrix/ Data Analysis 
